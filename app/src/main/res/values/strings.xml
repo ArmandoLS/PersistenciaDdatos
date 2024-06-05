@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Persistencia De Los Datos</string>
+    <string name="Atención" translatable="false">Atención</string>
+    <string name="Retro_boton" translatable="false">Atras</string>
+    <string name="Borrar">Borrar</string>
+    <string name="eliminar_pre">Precione el boton aceptar para eliminar los datos</string>
+    <string name="descripcion">No hay articulos en existencia .</string>
+    <string name="Editar_titu">Editar Titulo</string>
+    <string name="artículo">Artículo</string>
+    <string name="Detalle_arti">Detalles del artículo</string>
+    <string name="título_entrada_artículo">Añadir artículo</string>
+    <string name="Nom_arti">Nombre del árticulo</string>
+    <string name="PrecioArti">Precio</string>
+    <string name="no">No</string>
+    <string name="precio">Precio</string>
+    <string name="CantidadInventa">Cantidad en exixtencia </string>
+    <string name="Existencia">%d En existencia</string>
+    <string name="CantInventa">Cantidad en exixtencia</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Vender">Vender</string>
+    <string name="Si">Si</string>
+    <string name="Camposrequeridos"> requeridos</string>
+</resources>
